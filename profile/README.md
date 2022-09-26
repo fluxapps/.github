@@ -1,2 +1,2 @@
 # 
-![](fluxlabs.svg)
+![](./fluxlabs.svg)
